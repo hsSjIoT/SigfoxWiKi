@@ -1,1 +1,1 @@
-# SigfoxWiKi
+# Sigfox wiki repository
